@@ -1,0 +1,14 @@
+graphics/
+*.docx
+Imagine_resources/
+versions/
+imagine3D.m
+imagine21.m
+*.mlappinstall
+*.prj
+*.zip
+imagineSave.mat
+testdata.mat
+testdata3D.mat
+imagine21.m
+imagine.png
